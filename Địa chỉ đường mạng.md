@@ -1,0 +1,1 @@
+Kết quả của phép AND hai giá trị IP và Subnet mask

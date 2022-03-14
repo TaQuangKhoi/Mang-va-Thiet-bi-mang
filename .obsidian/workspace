@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "3e2b078424e88691",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa678a647f8eb7c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bài tập 14 Mar 2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d01bd251c92fac27",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bcb08f5da112a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c67389ddca41781",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a69056e7ddb188f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a77e86b9fa831ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a546047bbde24fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bd66a35db30994",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bài tập 14 Mar 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1fa678a647f8eb7c",
+  "lastOpenFiles": [
+    "Bài tập 14 Mar 2022.md",
+    "Địa chỉ broadcast.md",
+    "Địa chỉ IP khả dụng.md",
+    "Địa chỉ đường mạng.md",
+    "IPv4.md"
+  ]
+}
