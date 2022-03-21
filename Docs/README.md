@@ -6,7 +6,7 @@
 
 `Ta Quang Khoi_b3`: ![image](https://user-images.githubusercontent.com/45689286/159229929-a9e718dd-cf64-4c7e-9b04-9e9445e3650f.png)
 
-`Ta Quang Khoi_b4`: 
+`Ta Quang Khoi_b4`: ![image](https://user-images.githubusercontent.com/45689286/159230377-f845f5e9-264e-4dd0-8ac8-537d735e51f7.png)
 
 `Ta Quang Khoi_b5`: 
 
