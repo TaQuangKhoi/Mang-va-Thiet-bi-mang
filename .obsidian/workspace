@@ -7,8 +7,12 @@
         "id": "1fa678a647f8eb7c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,7 @@
   },
   "active": "1fa678a647f8eb7c",
   "lastOpenFiles": [
+    "README.md",
     "Websites.md",
     "UntitledChia.md",
     "Libra Office.md",
