@@ -10,4 +10,4 @@
 
 `Ta Quang Khoi_b5`: 
 
-`Ta Quang Khoi_b6`: 
+`Ta Quang Khoi_b6`: ![image](https://user-images.githubusercontent.com/45689286/159244242-247fe1b0-4809-42b2-914f-b37aaef9104a.png)
