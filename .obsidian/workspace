@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1dea8e4a63551599",
+        "id": "88968c0ee9151f33",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Docs/README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1dea8e4a63551599",
+  "active": "88968c0ee9151f33",
   "lastOpenFiles": [
     "Docs/README.md",
     "README.md",
