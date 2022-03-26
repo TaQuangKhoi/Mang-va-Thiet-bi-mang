@@ -1,5 +1,5 @@
 # Mạng và Thiết bị mạng
-**Docs**: Các file gửi thầy Trì [=>chi tiết](https://github.com/TaQuangKhoi/Mang-va-Thiet-bi-mang/tree/main/Docs#readme)
+**Docs**: Các file gửi thầy Trì [=>chi tiết đề](https://github.com/TaQuangKhoi/Mang-va-Thiet-bi-mang/tree/main/Docs#readme)
 
 **MD Files**: Ghi chú khi thầy Trì giảng trực tiếp trên lớp
 
